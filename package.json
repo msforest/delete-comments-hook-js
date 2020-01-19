@@ -1,0 +1,13 @@
+{
+  "name": "delete-comments-hook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "每次使用git commit的命令时，自动删除行内注释",
+  "author": "2012 <2013>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/generator": "^7.8.3",
+    "@babel/parser": "^7.8.3",
+    "@babel/traverse": "^7.8.3"
+  }
+}
